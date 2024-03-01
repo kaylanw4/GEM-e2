@@ -1,0 +1,1 @@
+python3 set_pos.py --x -1.5 --y -21 --yaw 3.1416

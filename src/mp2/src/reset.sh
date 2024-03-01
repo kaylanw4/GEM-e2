@@ -1,0 +1,1 @@
+python3 set_pos.py --x 0 --y -98 --yaw 0
